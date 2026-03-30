@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-https://love.vohelem576.workers.dev/lx-origin/th-tsporthd1_720/chunks.m3u8
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
