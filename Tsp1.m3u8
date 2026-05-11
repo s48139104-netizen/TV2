@@ -1,6 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776200&extension=m3u8
+https://love.bajikag863.workers.dev/lx-origin/th-tsporthd1_720/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
+https://love.tb78p17539.workers.dev/vx-origin/th-tsporthd1_720/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+https://love.omkijy19ej.workers.dev/lx-origin/th-tsporthd1_720/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+https://love.9xrie8ecms.workers.dev/vx-origin/th-tsporthd1_720/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+https://love.vohelem576.workers.dev/vx-origin/th-tsporthd1_720/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+https://love.bebin98399.workers.dev/lx-origin/th-tsporthd1_720/chunks.m3u8
+
